@@ -1,7 +1,4 @@
 {
-  "name": "Python",
-  "image": "mcr.microsoft.com/devcontainers/python:3.11",
-  "features": {
-    "ghcr.io/devcontainers/features/git:1": {}
-  }
+  "name": "Basic Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
